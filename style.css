@@ -1,0 +1,59 @@
+.main-header {
+    background-color: #f5c21a;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+h1 {
+    font-family: 'Rammetto One', cursive;
+
+}
+
+p,
+h4,
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+.container,
+    {
+    padding: 5rem 0;
+}
+
+.oneAbility {
+    margin: 4rem 0;
+}
+
+.introduction {
+    background-color: #f8f9fa;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+
+.technology {
+    background-color: #1d809f
+}
+
+.technology h2,
+h4 {
+    margin-top: 20px;
+    color: #fff
+}
+
+.technology p {
+    color: #444
+}
+
+.git {
+    background-color: #f5c21a;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
